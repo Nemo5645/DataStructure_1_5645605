@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="binary.c">
+    <ClCompile Include="1완성_정수홍_5645605_0311.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
